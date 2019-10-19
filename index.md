@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/coceany/travel-card-shop-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+非常感謝您使用「國民旅遊卡特約商店」（以下稱本應用程式），為了讓您能夠安心的使用本應用程式的各項服務與資訊，特此向您說明隱私權保護政策，以保障您的權益，請您詳閱下列內容：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 一、隱私權保護政策的適用範圍  
 
-### Markdown
+隱私權保護政策內容，包括本應用程式如何處理在您使用程式時收集到的資料。隱私權保護政策不適用於本應用程式以外的相關連結網站及應用程式，也不適用於非本應用程式所委託或參與管理的人員。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 二、蒐集的資訊及原因
 
-```markdown
-Syntax highlighted code block
+蒐集資訊是為了向所有使用者提供更優質的服務與產品，例如：了解使用者習慣並改善介面設計與使用流程、發現應用程式的缺陷並改善。
 
-# Header 1
-## Header 2
-### Header 3
+#### 三、應用程式權限及選項
 
-- Bulleted
-- List
+本應用程式並無要求額外權限。
 
-1. Numbered
-2. List
+#### 四、對外的相關連結及其他應用程式
 
-**Bold** and _Italic_ and `Code` text
+本應用程式提供的網路連結以及其他互動的應用程式，皆不適用本應用程式的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。
 
-[Link](url) and ![Image](src)
-```
+#### 五、隱私權保護政策之修正
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coceany/travel-card-shop-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本應用程式隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於此頁面中。
